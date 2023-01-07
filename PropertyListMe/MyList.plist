@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <dict>
+        <key>imageIcon</key>
+        <string>air-compressor.png</string>
+        <key>toolsName</key>
+        <string>Air Compressor</string>
+        <key>items</key>
+        <array>
+            <dict>
+                <key>item</key>
+                <string>Air Compressor 1</string>
+                <key>borrower</key>
+                <string></string>
+            </dict>
+            <dict>
+                <key>item</key>
+                <string>Air Compressor 2</string>
+                <key>borrower</key>
+                <string></string>
+            </dict>
+        </array>
+    </dict>
+</array>
+</plist>
